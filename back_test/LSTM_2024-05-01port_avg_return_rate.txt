@@ -1,0 +1,5 @@
+without adjustment: 
+avreage: 1.0826202678590524
+
+with adjustment: 
+average: 1.178918852408106
